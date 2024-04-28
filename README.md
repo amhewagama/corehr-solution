@@ -6,17 +6,41 @@ CoreHR is a comprehensive Human Resource Information System (HRIS)
 CoreHR is a comprehensive Human Resource Information System (HRIS) designed to streamline and manage every aspect of human resource operations. Developed with the needs of HR professionals at its core, CoreHR offers an integrated suite of tools that supports the entire employee lifecycle from recruitment to retirement. Our goal is to simplify complex HR processes, ensuring efficiency, compliance, and improved employee engagement across your organization.
 Key Features
 
-    Employee Management: Efficiently manage employee profiles, with detailed records and easy access to important information.
-    Organization Structure: Visualize and manage your company's organizational structure, roles, and responsibilities.
-    Lifecycle Management: Track and manage all stages of an employee's lifecycle, from hiring to retirement.
-    Attendance Management: Automated systems to track employee attendance, working hours, and ensure accurate payroll computation.
-    Leave Management: Streamlined processing of leave requests with visibility into balances and histories.
-    Benefit Management: Manage and allocate employee benefits such as health insurance, retirement plans, and other perks.
-    Recruitment Management: Enhance your hiring processes with tools for job posting, applicant tracking, and interview scheduling.
-    Disciplinary Management: Record and manage disciplinary actions in a structured and compliant manner.
-    Onboarding: Simplified and personalized onboarding experiences to help new hires integrate into your company faster and more effectively.
-    Training Management: Manage and track employee training programs, ensuring development and compliance across your workforce.
-    Performance Management: Tools to facilitate continuous performance evaluation, feedback, and recognition to drive organizational success.
+# Features
+
+## Employee Management
+Manage employee profiles with ease, ensuring quick access to important details and records within a few clicks.
+
+## Organization Structure
+Gain a clear view and manage your organizational hierarchy, defining roles and responsibilities effectively.
+
+## Lifecycle Management
+From onboarding to retirement, monitor and manage all phases of an employee’s career lifecycle.
+
+## Attendance Management
+Automate attendance tracking to ensure accurate records for payroll processing without any hassles.
+
+## Leave Management
+Handle leave applications and track leave balances seamlessly, facilitating an efficient leave management process.
+
+## Benefit Management
+Administer and track employee benefits like health insurance and retirement plans efficiently.
+
+## Recruitment Management
+Streamline your recruitment process with tools designed for job postings, applicant tracking, and interview scheduling.
+
+## Disciplinary Management
+Maintain records of disciplinary actions, ensuring they are managed fairly and professionally within regulatory frameworks.
+
+## Onboarding
+Create a welcoming and efficient onboarding process for new hires, helping them to integrate quickly and smoothly.
+
+## Training Management
+Organize and track employee training sessions to ensure compliance and career development across your organization.
+
+## Performance Management
+Implement performance evaluations and feedback mechanisms to foster growth and recognize achievements.
+
 
 # Why Choose CoreHR?
 

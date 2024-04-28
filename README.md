@@ -8,37 +8,37 @@ Key Features
 
 # Features
 
-## Employee Management
+### Employee Management
 Manage employee profiles with ease, ensuring quick access to important details and records within a few clicks.
 
-## Organization Structure
+### Organization Structure
 Gain a clear view and manage your organizational hierarchy, defining roles and responsibilities effectively.
 
-## Lifecycle Management
+### Lifecycle Management
 From onboarding to retirement, monitor and manage all phases of an employee’s career lifecycle.
 
-## Attendance Management
+### Attendance Management
 Automate attendance tracking to ensure accurate records for payroll processing without any hassles.
 
-## Leave Management
+### Leave Management
 Handle leave applications and track leave balances seamlessly, facilitating an efficient leave management process.
 
-## Benefit Management
+### Benefit Management
 Administer and track employee benefits like health insurance and retirement plans efficiently.
 
-## Recruitment Management
+### Recruitment Management
 Streamline your recruitment process with tools designed for job postings, applicant tracking, and interview scheduling.
 
-## Disciplinary Management
+### Disciplinary Management
 Maintain records of disciplinary actions, ensuring they are managed fairly and professionally within regulatory frameworks.
 
-## Onboarding
+### Onboarding
 Create a welcoming and efficient onboarding process for new hires, helping them to integrate quickly and smoothly.
 
-## Training Management
+### Training Management
 Organize and track employee training sessions to ensure compliance and career development across your organization.
 
-## Performance Management
+### Performance Management
 Implement performance evaluations and feedback mechanisms to foster growth and recognize achievements.
 
 
@@ -62,14 +62,14 @@ To begin using CoreHR, follow these simple steps:
     Customize Settings: Adjust the settings and configurations to match your specific HR processes and policies.
     Launch: Once set up, roll out CoreHR to your team and start optimizing your HR operations!
 
-# Contact Us
+## Contact Us
 
 For more information or to request a demo, please visit our website at www.corehr.com or contact us directly at info@growthscope.lk.
 
-# License
+## License
 
 
-# Contributing
+## Contributing
 
 We welcome contributions from the community! If you would like to contribute to the CoreHR project, please check out our CONTRIBUTING guide for guidelines about how to proceed. Community involvement is crucial to us and we look forward to your patches, bug fixes, and feature requests.
 

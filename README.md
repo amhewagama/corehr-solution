@@ -64,7 +64,7 @@ To begin using CoreHR, follow these simple steps:
 
 ## Contact Us
 
-For more information or to request a demo, please visit our website at www.corehr.com or contact us directly at info@growthscope.lk.
+For more information or to request a demo, please visit our website at [https://growthscope.lk/] or contact us directly at info@growthscope.lk.
 
 ## License
 

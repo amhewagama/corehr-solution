@@ -1,7 +1,10 @@
 # coreHR
 CoreHR is a comprehensive Human Resource Information System (HRIS)
 
-![corehr](https://github.com/amhewagama/corehr-solution/assets/69456605/e3452328-463e-4cba-976b-e173f29d0420)
+![corehr-dashboard](https://github.com/user-attachments/assets/26b41409-3945-4983-94a0-84ad0328ad0d)
+
+* **HR Handbook:** [HR Handbook](https://hrmlk.com/handbook/introduction.html)
+* **Create an Account:** [Create an Account](https://docs.google.com/forms/d/e/1FAIpQLSdxZ2lPEoptx3Tj8FYBktabhyv66fWj2n9VXQT6_tHZBHKrsw/viewform?usp=sf_link)
 
 CoreHR is a comprehensive Human Resource Information System (HRIS) designed to streamline and manage every aspect of human resource operations. Developed with the needs of HR professionals at its core, CoreHR offers an integrated suite of tools that supports the entire employee lifecycle from recruitment to retirement. Our goal is to simplify complex HR processes, ensuring efficiency, compliance, and improved employee engagement across your organization.
 Key Features

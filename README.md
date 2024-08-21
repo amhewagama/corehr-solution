@@ -3,7 +3,7 @@ CoreHR is a comprehensive Human Resource Information System (HRIS)
 
 ![corehr-dashboard](https://github.com/user-attachments/assets/26b41409-3945-4983-94a0-84ad0328ad0d)
 
-* **HR Handbook:** [HR Handbook](https://hrmlk.com/handbook/introduction.html)
+* **HR Handbook:** [HR Handbook](https://corehris.com/handbook/introduction.html)
 * **Create an Account:** [Create an Account](https://docs.google.com/forms/d/e/1FAIpQLSdxZ2lPEoptx3Tj8FYBktabhyv66fWj2n9VXQT6_tHZBHKrsw/viewform?usp=sf_link)
 
 CoreHR is a comprehensive Human Resource Information System (HRIS) designed to streamline and manage every aspect of human resource operations. Developed with the needs of HR professionals at its core, CoreHR offers an integrated suite of tools that supports the entire employee lifecycle from recruitment to retirement. Our goal is to simplify complex HR processes, ensuring efficiency, compliance, and improved employee engagement across your organization.
@@ -64,12 +64,6 @@ To begin using CoreHR, follow these simple steps:
     Import Data: Easily import existing employee data into CoreHR using our guided tools.
     Customize Settings: Adjust the settings and configurations to match your specific HR processes and policies.
     Launch: Once set up, roll out CoreHR to your team and start optimizing your HR operations!
-
-## Contact Us
-
-For more information or to request a demo, please visit our website at [https://growthscope.lk/] or contact us directly at info@growthscope.lk.
-
-## License
 
 
 ## Contributing
